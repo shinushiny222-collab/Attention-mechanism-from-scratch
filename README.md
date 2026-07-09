@@ -1,6 +1,6 @@
 # Attention-mechanism-from-scratch
 
-# Self-Attention Mechanism Using NumPy
+## Self-Attention Mechanism Using NumPy
 
 ## Overview
 This project demonstrates the implementation of the **Self-Attention Mechanism** using Python and NumPy. Self-attention is one of the core concepts used in Transformer models, allowing each input token to focus on the most relevant tokens while generating its representation.
